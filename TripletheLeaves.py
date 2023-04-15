@@ -1,3 +1,5 @@
+'''TRIPLE ALL THE LEAVES IN THE BINARY TREE'''
+
 class Node:
     def __init__(self, value):
         self.value = value
